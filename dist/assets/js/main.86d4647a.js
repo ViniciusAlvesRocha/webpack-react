@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{4:function(n,e,o){"use strict";o.r(e);var t=o(2),p=o.n(t),c=(o(0),o(3));o.n(c).a.render(p()("h3",{},void 0,"React App"),document.getElementById("root"))}},[[4,1,5,4,6,2,3]]]);
